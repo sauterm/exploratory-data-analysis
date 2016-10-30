@@ -9,4 +9,4 @@ To run this script you need to to the following:
 * Extract the data into ./Data subdirectory;
 * Run the scripts
 
-P.S. I removed the names of the X axis in plot 4 and fixed the names of the Y axis to make the graphs look more consistent, so my plots slightly differ from the ones in the description
+NOTE: I removed the names of the X axis in plot 4 and fixed the names of the Y axis to make the graphs look more consistent, so my plots slightly differ from the ones in the description
